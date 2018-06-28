@@ -5,23 +5,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="6" />
-          <entry key="rb" value="4" />
+          <entry key="erb" value="7" />
+          <entry key="rb" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Ruby" value="10" />
+          <entry key="RHTML" value="7" />
+          <entry key="Ruby" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="33" />
-          <entry key="rb" value="3" />
+          <entry key="rb" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="36" />
+          <entry key="Ruby" value="50" />
         </counts>
       </usages-collector>
     </session>
