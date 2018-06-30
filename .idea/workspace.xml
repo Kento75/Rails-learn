@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e895a8bf-cf34-4604-9d00-c1c0b6885c6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hello_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hello_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sample_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sample_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/toy_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/toy_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rails-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rails-tutorial.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/usage.statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toy_app/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/toy_app/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toy_app/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/toy_app/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toy_app/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/toy_app/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/app/views/static_pages/about.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/app/views/static_pages/about.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/app/views/static_pages/help.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/app/views/static_pages/help.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/app/views/static_pages/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/app/views/static_pages/home.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,48 +22,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sample_app/app/controllers/static_pages_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/home.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/help.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample_app/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -77,12 +56,13 @@
         <option value="$PROJECT_DIR$/toy_app/app/models/user.rb" />
         <option value="$PROJECT_DIR$/toy_app/app/models/micropost.rb" />
         <option value="$PROJECT_DIR$/sample_app/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/sample_app/app/controllers/static_pages_controller.rb" />
+        <option value="$PROJECT_DIR$/sample_app/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/sample_app/app/views/static_pages/home.html.erb" />
         <option value="$PROJECT_DIR$/sample_app/app/views/static_pages/help.html.erb" />
-        <option value="$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb" />
-        <option value="$PROJECT_DIR$/sample_app/config/routes.rb" />
-        <option value="$PROJECT_DIR$/sample_app/app/controllers/static_pages_controller.rb" />
         <option value="$PROJECT_DIR$/sample_app/app/views/static_pages/about.html.erb" />
+        <option value="$PROJECT_DIR$/sample_app/config/routes.rb" />
+        <option value="$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb" />
       </list>
     </option>
   </component>
@@ -127,34 +107,6 @@
               <item name="rails-tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="sample_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rails-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rails-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rails-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rails-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rails-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rails-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="static_pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rails-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rails-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rails-tutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -462,18 +414,20 @@
       <updated>1530101807562</updated>
       <workItem from="1530101808921" duration="2021000" />
       <workItem from="1530132958565" duration="1587000" />
-      <workItem from="1530184043037" duration="3516000" />
+      <workItem from="1530184043037" duration="3828000" />
+      <workItem from="1530218491643" duration="366000" />
+      <workItem from="1530359063347" duration="2096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7124000" />
+    <option name="totallyTimeSpent" value="9898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,8 +440,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32923076" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -507,9 +462,6 @@
           <caret line="66" column="3" lean-forward="true" selection-start-line="58" selection-end-line="66" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/toy_app/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,10 +508,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_app/app/controllers/static_pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/help.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_app/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="75" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -570,38 +560,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/help.html.erb">
+    <entry file="file://$PROJECT_DIR$/sample_app/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample_app/test/controllers/static_pages_controller_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample_app/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample_app/app/views/static_pages/about.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample_app/app/controllers/static_pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
