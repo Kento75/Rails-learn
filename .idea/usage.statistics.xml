@@ -4,30 +4,34 @@
     <session id="1051875135">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="6" />
-          <entry key="erb" value="20" />
+          <entry key="Gemfile" value="7" />
+          <entry key="Guardfile" value="2" />
+          <entry key="erb" value="22" />
+          <entry key="gitignore" value="1" />
           <entry key="layouts_file" value="1" />
-          <entry key="rb" value="24" />
+          <entry key="rb" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="RHTML" value="20" />
-          <entry key="Ruby" value="30" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="RHTML" value="22" />
+          <entry key="Ruby" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="33" />
+          <entry key="Gemfile" value="37" />
           <entry key="erb" value="9" />
-          <entry key="rb" value="60" />
+          <entry key="gitignore" value="1" />
+          <entry key="rb" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="RHTML" value="9" />
-          <entry key="Ruby" value="93" />
+          <entry key="Ruby" value="100" />
         </counts>
       </usages-collector>
     </session>
