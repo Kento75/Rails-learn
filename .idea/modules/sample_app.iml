@@ -39,6 +39,7 @@
     <orderEntry type="library" scope="PROVIDED" name="archive-zip (v0.11.0, ruby-2.4.4-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v9.0.0, ruby-2.4.4-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v8.6.4, ruby-2.4.4-p296) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v3.1.1.rc1, ruby-2.4.4-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.5.0, ruby-2.4.4-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.3.0, ruby-2.4.4-p296) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootstrap-sass (v3.3.7, ruby-2.4.4-p296) [gem]" level="application" />
