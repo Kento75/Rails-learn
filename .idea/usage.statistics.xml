@@ -7,38 +7,38 @@
           <entry key="Gemfile" value="13" />
           <entry key="Guardfile" value="2" />
           <entry key="Rakefile" value="2" />
-          <entry key="erb" value="35" />
+          <entry key="erb" value="37" />
           <entry key="gitignore" value="1" />
           <entry key="layouts_file" value="1" />
-          <entry key="rb" value="56" />
-          <entry key="scss" value="5" />
+          <entry key="rb" value="58" />
+          <entry key="scss" value="6" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="RHTML" value="35" />
-          <entry key="Ruby" value="73" />
-          <entry key="SCSS" value="5" />
+          <entry key="RHTML" value="37" />
+          <entry key="Ruby" value="75" />
+          <entry key="SCSS" value="6" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="68" />
-          <entry key="erb" value="20" />
+          <entry key="erb" value="21" />
           <entry key="gitignore" value="1" />
-          <entry key="rb" value="250" />
-          <entry key="scss" value="100" />
+          <entry key="rb" value="255" />
+          <entry key="scss" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="RHTML" value="20" />
-          <entry key="Ruby" value="318" />
-          <entry key="SCSS" value="100" />
+          <entry key="RHTML" value="21" />
+          <entry key="Ruby" value="323" />
+          <entry key="SCSS" value="103" />
         </counts>
       </usages-collector>
     </session>
